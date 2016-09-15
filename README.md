@@ -1,2 +1,2 @@
 # fresh-repo
-A fresh repository
+A fresh repository for practice
