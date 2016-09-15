@@ -1,2 +1,2 @@
 # fresh-repo
-A fresh repo
+A fresh repository
